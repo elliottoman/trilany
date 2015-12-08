@@ -1,4 +1,3 @@
-git<<<<<<< HEAD
 ﻿# Upgraded Mozu Core Theme
 
 This release includes an upgraded Core theme called **Core9**.
@@ -51,6 +50,3 @@ Use the new [Mozu Theme Generator](http://npmjs.com/package/generator-mozu-theme
 0. Make any necessary corrections based on visual errors or console errors.
 
 0. Repeat the last two steps until your theme is free from errors and regressions.
-=======
-# trilany
->>>>>>> 17cf2c89cfc4a878d272653ce95bed06317e5678
